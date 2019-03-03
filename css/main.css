@@ -1,0 +1,32 @@
+@charset "UTF-8";
+
+* {
+	margin: 0;
+	padding: 0;
+    font-family: Arial;
+    font-size:20px;
+    font-style: italic;
+}
+
+
+#webglcanvas {
+	border:none;
+	background-color:#ffffff;
+}
+
+#container{
+	position:absolute;
+	color:rgba(255,255,255,0.3);
+}
+#title {
+	position:relative;
+	left:20px;
+	top:20px;
+}
+
+#prompt {
+	position:relative;
+	left:20px;
+	top:20px;
+	font-size: 0.75em;
+}
