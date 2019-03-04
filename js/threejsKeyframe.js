@@ -270,11 +270,13 @@ function generateCoordinatesWithDirections(points, segments, zPos){
         //console.log(x2,zPos[5],y2);
     }
 
+    //console.log(nPoints);
     /*
     console.log(directions.length);
     console.log(coordinates.length);
     console.log(nKeys);
     */
+    
 }
 
 function playAnimations()
