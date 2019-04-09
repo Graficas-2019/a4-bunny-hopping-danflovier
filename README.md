@@ -19,4 +19,4 @@ Assignment No 4 for the computer graphics course. Using three.js, make a bunny h
 2. Add additional objects with their own animations.
 
 **Deadline:** 05/03/2019 14:30 hrs
-
+**Grade: 100**
